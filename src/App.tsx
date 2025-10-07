@@ -479,7 +479,7 @@ export default function App() {
             <div className="relative inline-block">
               <div className="w-full max-w-2xl mx-auto h-96 bg-gradient-to-br from-gray-800 via-gray-700 to-gray-800 rounded-2xl shadow-2xl flex items-center justify-center border border-white/10">
                 <img
-                  src="./Frame 36.png"
+                  src="/images/Frame 36.png"
                   alt="Event Poster"
                   className="w-full h-full object-cover rounded-md"
                 />
